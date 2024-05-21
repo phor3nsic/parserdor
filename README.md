@@ -1,6 +1,6 @@
 # parserdor
 
-Parser domain,subdomain,url, ip or cidr by stdin
+Parser domain, subdomain, url, ip or cidr by stdin
 
 ## Usage Example
 
